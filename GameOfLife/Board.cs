@@ -2,6 +2,7 @@ namespace GameOfLife.Tests;
 
 public class Board
 {
+    
     private readonly int _height;
     private readonly int _width;
     public Board(int height, int width)
